@@ -40,7 +40,7 @@ server/ → Node.js backend
 
 ### 1️⃣ Clone the repo
 
-https://github.com/your-username/job-tracker.git
+https://github.com/Mohamed-529/job-tracker-mern
 
 ### 2️⃣ Install dependencies
 
