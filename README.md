@@ -70,7 +70,7 @@ npm start
 
 ## 🌐 Live Demo
 
-👉 Add your deployed link here (Vercel / Render)
+👉job-tracker-mern-eight.vercel.app
 
 ---
 
