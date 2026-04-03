@@ -5,7 +5,12 @@ const cors = require("cors");
 
 const app = express();
 app.use(express.json());
-app.use(cors());
+const cors = require("cors");
+
+app.use(cors({
+  origin: "https://job-tracker-mern-eight.vercel.app",
+  credentials: true
+}));
 
 mongoose.connect(process.env.MONGO_URL)
   .then(() => console.log("MongoDB Connected"))
